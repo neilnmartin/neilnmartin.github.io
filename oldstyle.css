@@ -1,0 +1,115 @@
+
+html,body{
+    background-color: rgb(4, 9, 14);
+    font-family: "Fira Code";
+    height: 100%;
+    color: rgb(247, 247, 247);
+}
+
+.main-header{
+    background-color: rgb(4, 9, 14); 
+    min-height: 200px; 
+    width: 500px; 
+    padding: 35px 100px;
+}
+h1{
+    background-color: rgb(4, 9, 14);
+    text-align: center;
+}
+h3{
+    background-color: rgb(4, 9, 14);
+    text-align: center;
+}
+
+.section{
+    background-image: url("keyboardfaded.jpg");
+    /* Full height */
+    height: 65%;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tracks{
+    padding: 100px 100px;
+}
+
+.artintro{
+    background-color:rgb(4, 9, 14);
+    text-align: center;
+    padding: 20px 100px;
+}
+
+.part2{
+    background-image: url("OntheBanksfaded.jpg");
+    /* Full height */
+    height: 100%; 
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.rowofpics{
+
+}
+
+
+
+.part3{
+    background-image: url("OntheBanksfaded.jpg");
+    /* Full height */
+    height: 100%; 
+    /* Create the parallax scrolling effect */
+    /* background-attachment: fixed; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+body{
+    /* background-color: rgb(78, 78, 78) ; */
+    /* opacity: 0.8; */
+    /* min-height: 500px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    color: rgb(247, 247, 247); */
+}
+.centertext{
+    text-align: center;
+}
+.container{
+    /* padding: 0 100px; */
+}
+a{
+    color: whitesmoke
+}
+.incontainer{
+    /* background-color: rgb(33, 36, 39); */
+    padding: 0 100px;
+}
+.nopaddingincontainer{
+    background-color: rgb(4, 9, 14);
+    padding: 0 20px;
+}
+
+.sketch{
+    position: absolute;
+    width: 50%;
+    top: 50%;
+}
+
+.sketchcaption{
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    text-align: center;
+}
+
+
