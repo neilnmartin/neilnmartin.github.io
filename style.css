@@ -60,7 +60,7 @@ html,body{
 }
 
 .main-header{
-    background: black url("whitecasettebg.jpg") no-repeat fixed;
+    background: black url("whitecasettebgcrop3.jpg") no-repeat fixed;
     background-size: cover;
     height: calc(100vh - 200px);
     width: calc(100%-200px);
@@ -140,9 +140,9 @@ a{
   
 .lightbox img {
       /*Pad the lightbox image*/
-      max-width: 90%;
-      height: 100%;
-      margin-top: 2%;
+      /* max-width: 90%; */
+      max-height: 90%;
+      /* margin-top: 2%; */
   }
   
 .lightbox:target {
